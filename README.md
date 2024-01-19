@@ -1,10 +1,10 @@
-[![MasterHead](https://tenor.com/bTxiw.gif)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/c028f8ba974ab41f7d8a5841eb7477b7/tumblr_okz8qor68v1tqou9go1_640.gifv)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">French student at ENSTA Paris - Insititut Polytechnique de Paris.</h3>
 <img align="right" alt="Coding" width="400" src= https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcchen&label=Profile%20views&color=0e75b6&style=flat" alt="marcchen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcchen&label=Profile%20views&color=0e75b6&style=flat" alt="marcchen" /> </p>
 
 - 🌱 I’m currently learning **C++, GCP**
 
